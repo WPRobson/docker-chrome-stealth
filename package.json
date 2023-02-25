@@ -1,0 +1,19 @@
+{
+  "name": "docker-chrome-stealth",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WPRobson/docker-chrome-stealth.git"
+  },
+  "author": "Will Robson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WPRobson/docker-chrome-stealth/issues"
+  },
+  "homepage": "https://github.com/WPRobson/docker-chrome-stealth#readme"
+}
