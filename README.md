@@ -9,7 +9,7 @@ Browser is also launched exposing remote debugging on port 9222
 index.js is executed by default and is responsible for launching a chrome browser with the relevant launch options
 
 Build image
-    $ docker build -t docker-chrome-stealth .
+    ```$ docker build -t docker-chrome-stealth . ```
 
 image is also available from ghcr
-    $ docker pull ghcr.io/wprobson/docker-chrome-stealth:latest
+   ``` $ docker pull ghcr.io/wprobson/docker-chrome-stealth:latest ```
